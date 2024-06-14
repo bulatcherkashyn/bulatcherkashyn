@@ -10,5 +10,5 @@
 |<span style="font-size: 14px">TypeScript</span>|<span style="font-size: 14px">Next.js</span>|<span style="font-size: 14px">MySQL</span>|<span style="font-size: 14px">Express</span>|<span style="font-size: 14px">mongoose</span>|<span style="font-size: 14px; white-space: nowrap;">Azure</span>|<span style="font-size: 14px">Cypress</span>|<span style="font-size: 14px">CI/CD</span>
 |<span style="font-size: 14px">GraphQL</span>|<span style="font-size: 14px">Vue</span>|<span style="font-size: 14px">PostgreSQL</span>|<span style="font-size: 14px">Loopback.js</span>|<span style="font-size: 14px">knex</span>|||<span style="font-size: 14px;">RabbitMQ</span>|
 |<span style="font-size: 14px">HTML</span>|<span style="font-size: 14px">Electron</span>|<span style="font-size: 14px">Redis</span>|<span style="font-size: 14px;">Node.js</span>|<span style="font-size: 14px">TypeORM</span>|||<span style="font-size: 14px">Swagger</span>|
-|||<span style="font-size: 14px">SQLite</span>||||||
-|||||||||
+|||<span style="font-size: 14px">SQLite</span>|||||||
+||||||||||
