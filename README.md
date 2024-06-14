@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Bulat</h1>
-<h3 align="center">fullstack Node.js developer from Ukraine</h3>
+<p align="center" style="font-weight: bold; font-size: 20px; color: #60747a;">Bulat  Cherkashyn</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
+---
+><span style="font-weight: bold; font-size: 16px; border-bottom: 2px solid #f9b677; padding-bottom: 3px; color: #60747a;">Position:</span><span  style="font-size: 14px;"> Fullstack Node.js developer.</span>
+---
+><span style="font-size: 16px; border-bottom: 2px solid #f9b677; padding-bottom: 3px;; font-weight: 600; color: #60747a;">Personal Info</span>
+>
+>|<span style="font-size: 14px; color: #60747a; font-weight: 600;">E-mail</span>|<span style="font-size: 14px; color: #60747a; font-weight: 600;">Linkedin</span>|<span style="font-size: 14px; color: #60747a; font-weight: 600;">Phone</span>|<span style="font-size: 14px; color: #60747a; font-weight: 600;">Telegram</span>|
+>|-|-|-|-|
+>|<a href="mailto: bulatcherkashyn@gmail.com" style="font-size: 14px; color: #2596be; text-decoration: none">bulatcherkashyn@gmail.com</a>|<a href="https://www.linkedin.com/in/bulat-cherkashyn-2161a1119/" style="color: #2596be; text-decoration: none; font-size: 14px">Linkedin</a>|<span style="font-size: 14px">+380930251978</span>|<a href="https://t.me/quouple3546" style="font-size: 14px; color: #2596be; text-decoration: none">@quouple3546</a>|
+---
