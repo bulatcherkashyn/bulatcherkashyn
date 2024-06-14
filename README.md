@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bulatcherkashyn. I'm professional fullstack Node.js developer
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Rust, Next.js
-- ❤️ `Node.js Vim React.js`
+- 🌱 I’m currently learning Rust, Next.js, Linux
+- ❤️ Node.js Vim
 - 📫 Contacts
