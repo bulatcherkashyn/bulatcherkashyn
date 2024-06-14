@@ -4,6 +4,7 @@
 - ❤️ `Node.js Vim React.js`
 - 📫 Contacts
   
+>|<span style="font-size: 14px; color: #60747a; font-weight: 600;">E-mail</span>|<span style="font-size: 14px; color: #60747a; font-weight: 600;">Linkedin</span>|<span style="font-size: 14px; color: #60747a; font-weight: 600;">Phone</span>|<span style="font-size: 14px; color: #60747a; font-weight: 600;">Telegram</span>|
 >|-|-|-|-|
 >|<a href="mailto: bulatcherkashyn@gmail.com" style="font-size: 14px; color: #2596be; text-decoration: none">bulatcherkashyn@gmail.com</a>|<a href="https://www.linkedin.com/in/bulat-cherkashyn-2161a1119/" style="color: #2596be; text-decoration: none; font-size: 14px">Linkedin</a>|<span style="font-size: 14px">+380930251978</span>|<a href="https://t.me/quouple3546" style="font-size: 14px; color: #2596be; text-decoration: none">@quouple3546</a>|
 
