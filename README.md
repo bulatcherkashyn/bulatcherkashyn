@@ -1,4 +1,4 @@
-<h2 align="center" style="font-weight: bold; font-size: 30px; color: #60747a;">👋 Hi, I’m @bulatcherkashyn. I'm professional fullstack Node.js developer</h2>
+<p align="center" style="font-weight: bold; font-size: 30px; color: #60747a;">👋 Hi, I’m @bulatcherkashyn. I'm professional fullstack Node.js developer</p>
 
 - 👋 Hi, I’m @bulatcherkashyn. I'm professional fullstack Node.js developer
 - 👀 I’m interested in ...
